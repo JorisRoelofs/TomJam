@@ -2,8 +2,9 @@
 curRow = 1;
 prevRow = curRow;
 maxRow = 2;
-maxHp = 1;
+maxHp = 2;
 hp = maxHp;
 type = noone;
 
-alarm[0] = 1;
+isHit = false;
+isHitTime = 0;

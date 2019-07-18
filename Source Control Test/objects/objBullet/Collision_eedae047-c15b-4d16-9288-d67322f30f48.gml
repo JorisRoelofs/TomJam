@@ -1,3 +1,8 @@
 /// @description Insert description here
 instance_destroy();
-with(other) hp -= 1;
+scr_shake(5,5);
+with(other) {
+	hp -= 1;
+	isHit = true;
+	isHitTime = 3;
+}
