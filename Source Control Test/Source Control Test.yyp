@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "08d7ea89-7220-49eb-8d86-2ff929f72a6f",
+            "Value": {
+                "id": "f20c9aac-b9a6-4080-9239-859e58bc725e",
+                "resourcePath": "scripts\\scrShoot\\scrShoot.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "13ad9acf-e55d-409f-96bf-e44ab0e97e96",
             "Value": {
                 "id": "e48c9412-fec3-42f6-8c07-2d41729c413a",
@@ -55,11 +63,27 @@
             }
         },
         {
+            "Key": "1b7e9a79-0e30-4471-ab28-84f2d4806d6f",
+            "Value": {
+                "id": "f305292f-b2a1-4272-9e26-4ab5b2bc0507",
+                "resourcePath": "objects\\objBullet\\objBullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "33825c80-70fd-433e-bfc8-4699fb47a5d0",
             "Value": {
                 "id": "dd9b3795-f909-45ce-837c-f332871b8703",
                 "resourcePath": "views\\33825c80-70fd-433e-bfc8-4699fb47a5d0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "347a02a1-b0d8-439a-bb28-d600490da9b2",
+            "Value": {
+                "id": "dd9801ed-86f9-4905-9da7-788dad4bc627",
+                "resourcePath": "objects\\objButtonShoot\\objButtonShoot.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -175,11 +199,27 @@
             }
         },
         {
+            "Key": "a430a56a-8b0d-4374-b35d-aeb62bcf7873",
+            "Value": {
+                "id": "7ae92402-4d1e-4353-a75e-2293676f83b5",
+                "resourcePath": "objects\\objButtonParent\\objButtonParent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "8ad93e0f-bd8e-4d63-88be-02bacc720c54",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "abdbde4f-fd39-489b-9768-2991068849a5",
+            "Value": {
+                "id": "b3fdee9e-c70a-4d7a-92a9-6a74b888cb31",
+                "resourcePath": "sprites\\sprite3\\sprite3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -207,6 +247,14 @@
             }
         },
         {
+            "Key": "c3ac164b-efa6-4bd8-aa30-c6382d0d488d",
+            "Value": {
+                "id": "6189bd0e-244f-4deb-a8da-2462dc69c440",
+                "resourcePath": "sprites\\sprButtonLeft\\sprButtonLeft.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc0e2a2f-f031-4601-acdc-59d1c949e0fa",
             "Value": {
                 "id": "f16c99fa-6a20-4736-8d4c-34de87bcab2f",
@@ -220,6 +268,14 @@
                 "id": "153f89d8-bcdd-41e6-8f41-5f33ccd5b651",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "daed7a10-92f6-4b75-b56c-87e73ccb4574",
+            "Value": {
+                "id": "05a53e9d-74c1-46bf-984d-065b6d0590bb",
+                "resourcePath": "objects\\objButtonDirection\\objButtonDirection.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -239,11 +295,27 @@
             }
         },
         {
+            "Key": "e8508a22-e624-4ab4-9004-39bc173adb24",
+            "Value": {
+                "id": "2ad42e0f-2331-4939-bc80-bf39cbeef889",
+                "resourcePath": "sprites\\sprButtonRight\\sprButtonRight.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ebb89633-1378-4599-a852-f502068ea5ce",
             "Value": {
                 "id": "4d0fce05-0571-4936-ad05-68ce43d9223b",
                 "resourcePath": "views\\ebb89633-1378-4599-a852-f502068ea5ce.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ef52f273-20e2-4b4e-99f4-d32e29b92785",
+            "Value": {
+                "id": "0f14a9e9-7611-4dd4-a77b-5d909bfef832",
+                "resourcePath": "sprites\\sprButtonShoot\\sprButtonShoot.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -256,7 +328,8 @@
         }
     ],
     "script_order": [
-        "1858b86e-d965-4fb7-8c96-65aa6db29516"
+        "1858b86e-d965-4fb7-8c96-65aa6db29516",
+        "08d7ea89-7220-49eb-8d86-2ff929f72a6f"
     ],
     "tutorial": ""
 }
