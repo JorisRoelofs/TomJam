@@ -5,3 +5,5 @@ maxRow = 2;
 maxHp = 1;
 hp = maxHp;
 type = noone;
+
+alarm[0] = 1;

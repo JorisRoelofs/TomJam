@@ -1,1 +1,1 @@
-instance_create_depth(x,y,1,objBullet);
+instance_create_depth(x,y-24,1,objBullet);
