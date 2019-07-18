@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "08d34bb5-42a5-4dfe-8c71-5e70eaacacd8",
+            "Value": {
+                "id": "2a2377c0-1ec3-4d29-8c85-9b0719a865f0",
+                "resourcePath": "objects\\objEnemy\\objEnemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "08d7ea89-7220-49eb-8d86-2ff929f72a6f",
             "Value": {
                 "id": "f20c9aac-b9a6-4080-9239-859e58bc725e",
@@ -52,6 +60,14 @@
                 "id": "e48c9412-fec3-42f6-8c07-2d41729c413a",
                 "resourcePath": "views\\13ad9acf-e55d-409f-96bf-e44ab0e97e96.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "17dc4eb7-87d9-42df-a6e9-9ce590cbda1d",
+            "Value": {
+                "id": "a43e73d5-7be5-4bf6-b0c2-8da869ead198",
+                "resourcePath": "objects\\objEnemyManager\\objEnemyManager.yy",
+                "resourceType": "GMObject"
             }
         },
         {
