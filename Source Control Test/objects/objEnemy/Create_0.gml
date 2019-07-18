@@ -6,4 +6,4 @@ maxHp = 2;
 hp = maxHp;
 type = noone;
 
-show_debug_message("hoi")
+alarm[0] = 1;
