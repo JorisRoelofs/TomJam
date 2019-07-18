@@ -247,14 +247,6 @@
             }
         },
         {
-            "Key": "ba7d1dff-bb72-44ae-b78a-37a0d24af9a0",
-            "Value": {
-                "id": "a8dd07c9-d62a-42c1-b835-3ad074bb92e3",
-                "resourcePath": "scripts\\SCIPT\\SCIPT.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "bf319846-f0fe-4d77-91de-4a73ff8fe974",
             "Value": {
                 "id": "1ec2351e-3b36-450f-b6dc-4013e0ebc361",
@@ -370,8 +362,7 @@
     "script_order": [
         "1858b86e-d965-4fb7-8c96-65aa6db29516",
         "08d7ea89-7220-49eb-8d86-2ff929f72a6f",
-        "d88993d7-2406-4233-a55a-c32ada04873d",
-        "ba7d1dff-bb72-44ae-b78a-37a0d24af9a0"
+        "d88993d7-2406-4233-a55a-c32ada04873d"
     ],
     "tutorial": ""
 }
