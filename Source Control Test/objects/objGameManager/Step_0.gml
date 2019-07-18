@@ -1,6 +1,6 @@
 /// @description Insert description here
 
-if global.beatTimer >= 4 {
+if global.beatTimer >= 64 {
 	global.beatTimer = 0;
 } else global.beatTimer++;
 

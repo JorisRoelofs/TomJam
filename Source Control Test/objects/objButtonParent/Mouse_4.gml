@@ -1,2 +1,3 @@
 /// @description Insert description here
-image_speed = room_speed;
+image_index = 1;
+image_speed = 1;
