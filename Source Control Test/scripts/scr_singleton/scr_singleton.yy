@@ -1,8 +1,8 @@
 {
-    "id": "423a52bf-9d6a-4d4b-b07f-4bc3f5960a20",
+    "id": "e46036fc-bef5-4464-b3a4-47ed5213c819",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "script0",
+    "name": "scr_singleton",
     "IsCompatibility": false,
     "IsDnD": false
 }
