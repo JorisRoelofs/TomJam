@@ -1,2 +1,2 @@
 /// @description Insert description here
-draw_self();
+scr_singleton();

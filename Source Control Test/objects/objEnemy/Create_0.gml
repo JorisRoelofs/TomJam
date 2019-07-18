@@ -1,2 +1,8 @@
 /// @description Insert description here
-vspeed = 2;
+alarm[0] = 4;
+
+curRow = 1;
+prevRow = curRow;
+maxRow = 2;
+
+type = noone;
