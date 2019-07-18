@@ -1,3 +1,6 @@
 /// If pressed, change row
 event_inherited();
-with(objPlayer) scrShoot();
+with(objPlayer) if(inputAllowed){
+	inputAllowed = false;
+	scrShoot();
+}

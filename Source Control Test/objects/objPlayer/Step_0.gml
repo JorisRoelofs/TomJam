@@ -1,4 +1,6 @@
 /// Movement
+if(global.beatTimer = 0) inputAllowed = true;
+
 if(keyboard_check_pressed(vk_left)) curRow -= 1;
 if(keyboard_check_pressed(vk_right)) curRow += 1;
 

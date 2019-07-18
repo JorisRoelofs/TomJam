@@ -3,5 +3,5 @@ scr_singleton();
 
 randomize();
 
-worldTimer = 0;
+global.worldTick = 0;
 global.beatTimer = 64;
