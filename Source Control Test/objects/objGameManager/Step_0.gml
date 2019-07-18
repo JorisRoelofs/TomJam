@@ -1,5 +1,9 @@
 /// @description Insert description here
 
-if beatTimer >= 4 {
-	beatTimer = 0;
+if global.beatTimer >= 4 {
+	global.beatTimer = 0;
+} else global.beatTimer++;
+
+if keyboard_check_direct(vk_alt) {
+	instance_create_layer(mouse_x,mouse_y,"Instances", objEnemy);
 }

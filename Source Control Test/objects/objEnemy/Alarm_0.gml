@@ -1,2 +1,3 @@
 /// @description Insert description here
-draw_self();
+alarm[0] = 48;
+y += 32;

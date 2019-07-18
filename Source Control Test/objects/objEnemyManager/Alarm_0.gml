@@ -1,4 +1,6 @@
 /// @description Insert description here
 
-with instance_create_layer(x,y,"Instances",objEnemy) {
-}
+var a = instance_create_layer(x,y,"Instances",objEnemy);
+	a.curRow = irandom(2);
+	
+alarm[0] = 48;
