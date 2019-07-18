@@ -1,6 +1,9 @@
 /// @description Insert description here
-var _tick = global.worldTick;
 var _input = objPlayer.input;
+global.worldTick += _input;
+var _tick = global.worldTick;
+
+show_debug_message(string(_tick));
 
 if (_input) {
 	

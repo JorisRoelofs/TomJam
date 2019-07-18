@@ -1,5 +1,7 @@
 /// @description Insert description here
-if global.beatTimer == 0 {
+var _input = objPlayer.input;
+
+if _input {
 	y += 48;
 }
 
