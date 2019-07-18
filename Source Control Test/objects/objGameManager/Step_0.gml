@@ -1,3 +1,5 @@
 /// @description Insert description here
-worldTimer = 0;
-beatTimer = 0;
+
+if beatTimer >= 4 {
+	beatTimer = 0;
+}
