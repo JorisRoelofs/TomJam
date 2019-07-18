@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "280895d1-20c0-4b8a-9801-17753933f37d",
+            "Value": {
+                "id": "d65b2cda-1b59-4148-aeb1-0def4fdada10",
+                "resourcePath": "views\\280895d1-20c0-4b8a-9801-17753933f37d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "33825c80-70fd-433e-bfc8-4699fb47a5d0",
             "Value": {
                 "id": "dd9b3795-f909-45ce-837c-f332871b8703",
@@ -300,6 +308,14 @@
                 "id": "2ad42e0f-2331-4939-bc80-bf39cbeef889",
                 "resourcePath": "sprites\\sprButtonRight\\sprButtonRight.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e87abdc0-d32f-4eb9-963d-ff4fb03fd2b9",
+            "Value": {
+                "id": "d9ee7bb3-a961-41ff-b7c1-546b8e47d54b",
+                "resourcePath": "objects\\objGameManager\\objGameManager.yy",
+                "resourceType": "GMObject"
             }
         },
         {
