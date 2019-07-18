@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1cb812aa-06c1-47c3-9cef-c719abb9f1aa",
+            "Value": {
+                "id": "a1ecb5e7-514a-4b76-bf36-250a2e62f9c4",
+                "resourcePath": "objects\\objSystemManager\\objSystemManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "33825c80-70fd-433e-bfc8-4699fb47a5d0",
             "Value": {
                 "id": "dd9b3795-f909-45ce-837c-f332871b8703",
@@ -68,6 +76,14 @@
                 "id": "b4336b40-9cbd-4354-84c0-c1b94c4ebd9e",
                 "resourcePath": "scripts\\script0\\script0.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "48004ffd-6b41-47c2-aa81-330d5dfeb22c",
+            "Value": {
+                "id": "c363917c-3ca7-424c-99fe-8511a6cdb01c",
+                "resourcePath": "rooms\\rmInit\\rmInit.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -204,6 +220,14 @@
                 "id": "153f89d8-bcdd-41e6-8f41-5f33ccd5b651",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d40c32b6-aa3d-49b6-b3da-87232a324615",
+            "Value": {
+                "id": "c458da90-93f9-47c0-8e3f-c4c09f17b532",
+                "resourcePath": "objects\\objDisplayManager\\objDisplayManager.yy",
+                "resourceType": "GMObject"
             }
         },
         {
