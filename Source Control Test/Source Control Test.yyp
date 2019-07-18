@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "93eab903-39f5-4e4a-9c67-17d017718473",
+            "Value": {
+                "id": "649c8b89-532e-44ff-8225-14f139f72fe0",
+                "resourcePath": "sprites\\sprBoss\\sprBoss.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "94698aa1-510f-4925-890a-983a68c1b68e",
             "Value": {
                 "id": "5ce49113-33b4-4ee8-b34a-db10845f0603",
