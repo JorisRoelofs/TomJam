@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1858b86e-d965-4fb7-8c96-65aa6db29516",
+            "Value": {
+                "id": "93064e98-a7c6-4a56-aa7b-71f44786914d",
+                "resourcePath": "scripts\\scr_singleton\\scr_singleton.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "33825c80-70fd-433e-bfc8-4699fb47a5d0",
             "Value": {
                 "id": "dd9b3795-f909-45ce-837c-f332871b8703",
@@ -105,7 +113,7 @@
         {
             "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
             "Value": {
-                "id": "cd7f7169-b910-42cb-b06d-79ef45dd899a",
+                "id": "c2a5b101-d8ec-4972-b50d-b8dd00da8cde",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
             }
@@ -129,7 +137,7 @@
         {
             "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
             "Value": {
-                "id": "7e037632-b4a7-48db-b09a-3b148c8f33e2",
+                "id": "506ac283-9937-47ec-ae41-ffdafeb67323",
                 "resourcePath": "options\\tvos\\options_tvos.yy",
                 "resourceType": "GMtvOSOptions"
             }
@@ -153,7 +161,7 @@
         {
             "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
             "Value": {
-                "id": "1a749534-9fb1-48b2-929f-41bdcc60295c",
+                "id": "857fdff2-25e0-451a-8b4a-c6551d447b68",
                 "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
             }
@@ -217,17 +225,9 @@
         {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
-                "id": "161ffc4a-3819-44f2-82fd-bb49d38d5271",
+                "id": "440a553e-c835-4104-a280-712257dadd1c",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
-            }
-        },
-        {
-            "Key": "e46036fc-bef5-4464-b3a4-47ed5213c819",
-            "Value": {
-                "id": "d1489a5d-d422-4d0d-8cb6-6ee1f6e6e359",
-                "resourcePath": "scripts\\scr_singleton\\scr_singleton.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -256,7 +256,7 @@
         }
     ],
     "script_order": [
-        "e46036fc-bef5-4464-b3a4-47ed5213c819"
+        "1858b86e-d965-4fb7-8c96-65aa6db29516"
     ],
     "tutorial": ""
 }
