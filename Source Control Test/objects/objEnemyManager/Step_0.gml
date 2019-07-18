@@ -4,8 +4,6 @@ global.worldTick += _input;
 var _tick = global.worldTick;
 var _arrayLength = array_height_2d(enemyArray)
 
-show_debug_message(string(_arrayLength));
-
 if (_input) {
 	
 	if _tick < _arrayLength-1 and 
