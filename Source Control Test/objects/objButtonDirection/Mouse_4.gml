@@ -1,6 +1,6 @@
 /// If pressed, change row
 event_inherited();
-with(objPlayer) if(inputAllowed) {
-	inputAllowed = false;
+with(objPlayer) {
+	input += 1;
 	curRow += other.addRow;
 }

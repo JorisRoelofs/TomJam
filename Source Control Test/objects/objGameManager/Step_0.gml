@@ -3,7 +3,7 @@
 
 if global.beatTimer >= 64 {
 	global.beatTimer = 0;
-} else global.beatTimer++;
+} else if(instance_exists(objPlayer) && objPlayer.input) global.beatTimer++;
 
 
 if keyboard_check_direct(vk_alt) {
