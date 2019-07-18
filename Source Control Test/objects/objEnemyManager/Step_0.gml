@@ -3,8 +3,6 @@ var _input = objPlayer.input;
 global.worldTick += _input;
 var _tick = global.worldTick;
 
-show_debug_message(string(_tick));
-
 if (_input) {
 	
 	if enemyArray[_tick,0] != noone {

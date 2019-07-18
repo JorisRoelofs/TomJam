@@ -2,6 +2,6 @@
 curRow = 1;
 prevRow = curRow;
 maxRow = 2;
-maxHp = 2;
+maxHp = 1;
 hp = maxHp;
 type = noone;
