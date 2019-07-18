@@ -1,4 +1,4 @@
 /// @description Insert description here
-speed = -10;
+speed = -9;
 direction = 90;
 gravity = -1;
